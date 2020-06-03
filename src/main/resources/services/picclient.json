@@ -1,0 +1,8 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^(http)://picclient.com.*",
+  "name" : "picclient",
+  "id" : 10000001,
+  "description" : "CAS Client pic",
+  "evaluationOrder" : 10000
+}
